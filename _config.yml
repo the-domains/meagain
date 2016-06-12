@@ -1,0 +1,14 @@
+layout_spectrum: 0.23870825907215476
+typography_spectrum: 0.6690377276390791
+color:
+  brandStrength: 0.8003538481425494
+  lightness: 0.2916358569636941
+  saturation: 0.2365539267193526
+  rhythmicContrast: 0.9279610842932016
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: meagain
